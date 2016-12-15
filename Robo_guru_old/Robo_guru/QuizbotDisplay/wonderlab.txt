@@ -1,0 +1,6 @@
+image	question	a	b	c	d	answer
+R2D2.jpg	 What is the name of this robot?	C3PO	Wall-E	R2D2	Frank	c
+roomba.jpg	 What does this robot do?	Vacuum	Play hockey	Carry things	Follow people	a
+robotcamera.jpg	 What does a robot use to see?	 Spectacles	 A camera	A telescope	Eyes	b
+robotdrink.jpg	What does a machine need to do to be called a robot?	Take over a human task	Look technically complicated	Work without stopping	Sense, plan, and act	d
+chocolaterobot.jpg	What kinds of tasks were robots initially made to do?	Tasks people do not want to do	Dirty, dull, and dangerous tasks	Repetitive tasks	All of the above	d

@@ -1,0 +1,33 @@
+image,question,a,b,c,d,answer
+board.jpg,What is the name of the board used to make quizbot?,Arduino,Cappuccino,Palomino,Neutrino,a
+motor.jpg,What type of motor is used to make quizbot?, Stepper Motor, Diesel Motor, Servo Motor, Brushless Motor,c
+
+image,question,a,b,c,d,answer
+What type is Squirtle?,Grass,Rock,Ghost,Water,d
+What is Charlie's favorite pokemon?,Mewtwo,Charizard,Thyphlosion,Smoochem,b
+
+image,question,a,b,c,d,answer
+board.jpg,What is the name of the board used to make quizbot?,Arduino,Cappuccino,Palomino,Neutrino,a
+motor.jpg,What type of motor is used to make quizbot?, Stepper Motor, Diesel Motor, Servo Motor, Brushless Motor,c
+
+image,question,a,b,c,d,answer
+board.jpg,What is the name of the board used to make quizbot?,Arduino,Cappuccino,Palomino,Neutrino,a
+motor.jpg, What type of motor is used to make quizbot?, Stepper Motor, Diesel Motor, Servo Motor, Brushless Motor,c
+motor.jpg, What is my name?, Jacob's Nightmare, Jacob's Best Friend, Jacob's Dream, Jacob's Buddy, a
+motor.jpg, Which of these colors is NOT one of Edgewood Jr. High's colors? red, blue, black, white, b
+motor.jpg, What's Ms. Patty's favorite food?, Italian food, Meat in general, Thai Food, Mexican Food, c
+motor.jpg, In a triangle where one corner is 90 degrees and the other corner is 60 degrees how many degrees is the last angle?, 130, 30, 50, 90000, b
+motor.jpg, Which European country is closest to the US?, Greenland (Denmark), Portugal, UK, Russia, d
+
+What's my favorite super hero?,Spawn,Darkwing Duck,Batman,Wonder Woman
+What's my favorite color?,black,green,purple,pink
+What's my favorite food?,pizza,ice cream,chicken,hamburger
+What boy do I dislike?,Tyler,Seth,Cole,Colton
+What's Faith's birthday?,November 22,December 13,February 19,July 30
+
+Who is this?,Kenny Omega,Jimmy Johnson,Ian Somerhalder,Andrew Luck
+Who was Dr. Neo Cortexe's first experiment?,Crunch,N.gin,Dingo Dile,Crash
+What does EDA stand for?,Elemental Dracos Alliance,Energy Demon Alliance,Exciting Dragon Alliance,None of the above
+
+What does NJPW stand for?,National Juggling Pirahanna War,New Japan Pro Wrestling,National Juijitsu Pro Workout, None of the above
+Why is his name Megaman MUP?,Because he rolls like that.,His parents named him that.,Because he has a messed up pupil., None of the above
